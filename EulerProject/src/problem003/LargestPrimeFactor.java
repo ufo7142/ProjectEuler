@@ -3,7 +3,6 @@ package problem003;
 public class LargestPrimeFactor {
 
 	public static void main(String[] args) {
-
 		int i = 2;
 		long num = 600851475143L;
 		
@@ -13,6 +12,7 @@ public class LargestPrimeFactor {
 			}
 			i++;
 		}
+	
 		System.out.println(num);
 	}
 }
