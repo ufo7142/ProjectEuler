@@ -20,7 +20,7 @@ public class SummationOfPrimes {
 	    }
 	    
 	    public static boolean isPrime(long number) {
-
+	    	
 	        if(number % 2 == 0) {
 	            return false;
 	        }
