@@ -1,7 +1,5 @@
 package problem014;
 
-import java.util.Scanner;
-
 public class LongestCollatzSequence {
 	public static void main(String[] args) {
 		long tempNumber = 0;
